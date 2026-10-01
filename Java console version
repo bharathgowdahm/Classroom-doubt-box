@@ -1,2 +1,0 @@
-javac -d out src/com/doubtbox/*.java
-java -cp out com.doubtbox.Main
